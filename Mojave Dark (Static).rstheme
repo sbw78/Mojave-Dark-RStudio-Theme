@@ -159,7 +159,7 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 }
 
 .GCHYANPCIP {
-	background: #37393A -webkit-linear-gradient(top, rgba(255, 255, 255, 0.9) 0, rgba(255, 255, 255, 0.9) 17%, rgba(255, 255, 255, 0) 50%);
+	background: #9c9c9c linear-gradient(to bottom, rgba(255, 255, 255, 1) 0, rgba(200, 200, 200, 1) 15%, rgba(50, 50, 50, 1) 80%);
 }
 
 /*Remove default draggable spacers color*/
@@ -646,7 +646,7 @@ div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
     box-shadow: none !important;
 }
 
-.GCHYANPCB2 {
+.GCHYANPCN1 .GCHYANPCB2 {
 	color: black;
 }
 
