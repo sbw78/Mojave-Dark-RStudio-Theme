@@ -70,6 +70,10 @@ div.GGBOEFPDDW {
   border-color: rgb(33,35,36) !important;
 }
 
+/*checkbox background for pane layout*/
+.GCHYANPCKRB {
+	background: rgb(41,44,46) !important;
+}
 
 /*Misc Borders*/
 .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCH3C .GD15MCFCN2C, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCIDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCEDD,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD td.GD15MCFCBED,.rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCJDD .GD15MCFCPCD, .rstudio-themes-flat .rstudio-themes-dark-grey .dataGridHeader, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject>div:last-child, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_toolbarWrapper, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO div.GD15MCFCMO .GD15MCFCIS, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV.GD15MCFCPO, #rsGridData_info {
@@ -146,6 +150,18 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
     box-shadow: 0 0px 20px rgba(0, 0, 0, 0.6);
 }
 
+.GCHYANPCHK {
+	background: rgb(24, 24, 25);
+}
+
+.GCHYANPCLJ {
+	background: #9c9c9c linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0) 20%, rgba(0, 0, 0, 0.01) 85%, rgba(0, 0, 0, 0.1) 100%);
+}
+
+.GCHYANPCIP {
+	background: #37393A -webkit-linear-gradient(top, rgba(255, 255, 255, 0.9) 0, rgba(255, 255, 255, 0.9) 17%, rgba(255, 255, 255, 0) 50%);
+}
+
 /*Remove default draggable spacers color*/
 .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-VDragger {
   background: none !important;
@@ -187,6 +203,14 @@ table.GD15MCFCBMB {
 .GD15MCFCMU {
   color: white;
 }
+
+.GGBOEFPDGK .GGBOEFPDK2 {
+  background: black;
+}
+
+/*.GGBOEFPDK2 {
+  background: black;
+}*/
 
 .dialogMiddleCenterInner button.gwt-Button.GD15MCFCH1 {
   filter: invert(90%)
@@ -620,6 +644,14 @@ div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
     color: white !important;
     border: none !important;
     box-shadow: none !important;
+}
+
+.GCHYANPCB2 {
+	color: black;
+}
+
+.GCHYANPCBV {
+	color: white;
 }
 
 iframe.gwt-Frame {
