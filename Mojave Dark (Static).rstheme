@@ -154,6 +154,10 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 	background: rgb(24, 24, 25);
 }
 
+.GCHYANPCLJ {
+	background: #9c9c9c;
+}
+
 .gwt-TabLayoutPanelTab-selected {
 	background: #9c9c9c linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0) 20%, rgba(0, 0, 0, 0.01) 85%, rgba(0, 0, 0, 0.1) 100%);
 }
@@ -163,7 +167,19 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 	color: black;
 }
 
-.GCHYANPCLJ {
+.GCHYANPCO2 {
+	background: rgb(24, 24, 25);
+}
+
+.GCHYANPCP2 {
+	background: #9c9c9c;
+}
+
+.GCHYANPCJ3 {
+	background: rgb(24, 24, 25);
+}
+
+.rstudio-themes-flat .GCHYANPCK3 {
 	background: #9c9c9c;
 }
 
@@ -1369,164 +1385,4 @@ div .gwt-Label.GD15MCFCF3 {
 .xtermColor247 { color: #9e9e9e !important; }
 .xtermBgColor247 { background-color: #9e9e9e; }
 .xtermColor248 { color: #a8a8a8 !important; }
-.xtermBgColor248 { background-color: #a8a8a8; }
-.xtermColor249 { color: #b2b2b2 !important; }
-.xtermBgColor249 { background-color: #b2b2b2; }
-.xtermColor250 { color: #bcbcbc !important; }
-.xtermBgColor250 { background-color: #bcbcbc; }
-.xtermColor251 { color: #c6c6c6 !important; }
-.xtermBgColor251 { background-color: #c6c6c6; }
-.xtermColor252 { color: #d0d0d0 !important; }
-.xtermBgColor252 { background-color: #d0d0d0; }
-.xtermColor253 { color: #dadada !important; }
-.xtermBgColor253 { background-color: #dadada; }
-.xtermColor254 { color: #e4e4e4 !important; }
-.xtermBgColor254 { background-color: #e4e4e4; }
-.xtermColor255 { color: #eeeeee !important; }
-.xtermBgColor255 { background-color: #eeeeee; }
-.rstudio-themes-flat.editor_dark.ace_editor_theme a {
-   color: #FFF !important;
-}
-
-.ace_layer {
-   z-index: 3;
-}
-
-.ace_layer.ace_print-margin-layer {
-   z-index: 2;
-}
-
-.ace_layer.ace_marker-layer {
-   z-index: 1;
-}
-.rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete {
-   background: #2f3941;
-   /* border: solid 1px #4e5c68 !important; */
-   border: solid 1px rgb(71,71,71) !important;
-   color: #f0f0f0;
-}
-
-.rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete .ace_marker-layer .ace_active-line,
-.rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete .ace_marker-layer .ace_line-hover {
-   background: rgba(255, 255, 255, 0.15);
-   border: none
-}
-
-.ace_active-line {
-  background: rgb(47,50,57);
-}
-
-/* your commit is ahead of master notification */
-.GD15MCFCB2C, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCB2C {
-  background-color: rgb(236,60,57) !important;
-}
-
-.GD15MCFCGMC, .GD15MCFCB2C {
-  border-bottom: none;
-}
-
-.GD15MCFCB2C .GD15MCFCA2C {
-  color: white;
-}
-
-img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAYAAAAAwr0iAAABhElEQVR42u1Xu07DMBTtl/D6HCAOG4+fqBADbI4FEztfgKAjI4ldFiQWBhh5iAXaBQaGVkKlkJh7Y1UUROrr1FGF1CtdKWqSc45zn63VpuZgy1zNhFzthJFKWCRbLFI98C74DeMqxnvBbjJfCTEQHIN/Apm2eIrP4jteyBmXDAA7BOLf3g2EXB+PXMh6fqI/COoHF7r13NFoJ+cPRSKyUKjNUuShaK4iQNEJkXTYRnyJDLHcY26SqxB4v3Gl33ofOfn1/Ys1HE45EUTqiBJnDAMKoeWEbJDIF/fOZoviPqaniG0/vZDbNrDD5FbfPb3+cIoIxCaUnYopYPLykZqE3w7YFAFtCphDFQwLaNsFmPZajYBIvf8DAZMOgZl0lQmIvZRhWQGkMlzhp3OURlRCQIrYtCkIbdO/AGIrpgwj7ISDQTQwHEg4G7wMI/MVmmujxrGDZ4jlfSEhkwu5NbGVDEp6w99SahIzJS2l8Ky3pbRwLTcds587XONveG+Jq4XpHxgX+wK4hvG+aF4/hAAAAABJRU5ErkJggg=="] {
-  filter: grayscale(1) contrast(9);
-}
-
-/*borders in save current workspace*/
-.GD15MCFCKMB, .GD15MCFCBNB, .GD15MCFCMNB, .GD15MCFCENB, .GD15MCFCCNB {
-    border: 2px solid rgb(44,45,51) !important;
-}
-
-/*Miscellanious borders slash outlines around the main screen*/
-.rstudio-themes-flat .rstudio-themes-dark-grey .rstudio-themes-border, .rstudio-themes-flat .rstudio-themes-dark-grey table.GD15MCFCOQ>tbody>tr>td, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCKV>div:last-child, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_secondaryToolbar, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanel>div>div.gwt-TabLayoutPanelTabs, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-TabLayoutPanelTabs table.rstheme_tabLayoutCenter, .rstudio-themes-flat .rstudio-themes-dark-grey .rstheme_minimizedWindowObject table.rstheme_tabLayoutCenter {
-  border-color: rgb(75,75,75)
-}
-
-.rstudio-themes-flat .rstudio-themes-dark-grey td.GD15MCFCHXB, .rstudio-themes-flat .rstudio-themes-dark-grey td.GD15MCFCFXB, .rstudio-themes-flat .rstudio-themes-dark-grey td.GD15MCFCLXB, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCEXB, .rstudio-themes-flat .rstudio-themes-dark-grey .GD15MCFCAXB {
-  border: none;
-}
-
-/* data viewer table borders */
-.rstudio-themes-flat.rstudio-themes-dark-grey table.dataTable tbody td, .rstudio-themes-flat.rstudio-themes-dark-grey table.dataTable thead th {
-  border-color: rgb(38,39,39)
-}
-
-/* New Project Styles*/
-.GD15MCFCD3 {
-    background: rgb(44,45,47) !important;
-    outline: 1px solid rgb(73,73,75) !important;
-    color: white;
-}
-
-.GD15MCFCD3:hover, .GD15MCFCD3:hover .GD15MCFCO2 {
-  background: linear-gradient(311deg, rgba(18,101,200,1) 0%, rgba(19,105,208,1) 100%) !important;
-  color: white !important;
-}
-
-.GD15MCFCOMC div {
-  background: rgb(35,35,35);
-}
-
-/*back arrow in new project pane an image so it can't be styled that easily.*/
-.GD15MCFCP2 {
-    color: black !important;
-}
-
-span.ace_paren.ace_keyword.ace_operator {
-  color: rgb(160,160,160) !important;
-  font-weight: bold;
-}
-
-
-/*autofill menu descriptions and autocompletion options*/
-.GD15MCFCEVB, #rstudio_popup_completions {
-  background-color: rgb(53,53,53) !important;
-  color: white !important;
-  box-shadow: -1px 1px 5px black;
-}
-
-.rstudio-themes-flat.rstudio-themes-dark-menus .GD15MCFCEVB, .rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
-  background-color: rgb(49,50,51) !important;
-  border-color: rgb(30,30,30) !important;
-  box-shadow: -1px 1px 5px black;
-  border-radius: 1px !important;
-  color: white !important;
-}
-
-
-.GD15MCFCJRC {
-  background: rgb(30, 30, 30);
-  color: white; 
-}
-
-.GD15MCFCFSC, .GD15MCFCISC {
-  background: rgb(61, 213, 83, .2);
-  color: rgb(61, 213, 83);
-}
-
-/* file heirearchy in files tab */
-.GD15MCFCJI-filepane a.gwt-Anchor.GD15MCFCNQ {
-  color: white !important;
-}
-
-/* file heirearchy in files tab */
-.GD15MCFCJI-filepane a.gwt-Anchor.GD15MCFCNQ:hover {
-  text-decoration: underline;
-}
-
-.GD15MCFCGSC {
-  background-color: rgb(18, 101, 201);
-  color: white;
-}
-
-.GD15MCFCGE:focus .GD15MCFCBE .GD15MCFCGSC {
-  background-color: rgb(18, 101, 201);
-  color: white;
-  border: 1px solid rgba(255, 255, 255, .5);
-}
-
-.rstudio-themes-flat.rstudio-themes-dark-menus .rstudio-themes-scrollbars.GD15MCFCEVB ::-webkit-scrollbar-thumb {
-  background: rgb(35, 35, 35);
-}
-
+.xtermBgColor248 { backgro\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x61\x38\x61\x38\x61\x38\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x34\x39\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x62\x32\x62\x32\x62\x32\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x34\x39\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x62\x32\x62\x32\x62\x32\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x30\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x62\x63\x62\x63\x62\x63\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x30\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x62\x63\x62\x63\x62\x63\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x31\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x63\x36\x63\x36\x63\x36\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x31\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x63\x36\x63\x36\x63\x36\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x32\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x64\x30\x64\x30\x64\x30\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x32\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x64\x30\x64\x30\x64\x30\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x33\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x64\x61\x64\x61\x64\x61\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x33\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x64\x61\x64\x61\x64\x61\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x34\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x65\x34\x65\x34\x65\x34\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x34\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x65\x34\x65\x34\x65\x34\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x43\x6F\x6C\x6F\x72\x32\x35\x35\x20\x7B\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x65\x65\x65\x65\x65\x65\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x20\x7D\x0A\x2E\x78\x74\x65\x72\x6D\x42\x67\x43\x6F\x6C\x6F\x72\x32\x35\x35\x20\x7B\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x65\x65\x65\x65\x65\x65\x3B\x20\x7D\x0A\x2E\x72\x73\x74\x75\x64\x69\x6F\x2D\x74\x68\x65\x6D\x65\x73\x2D\x66\x6C\x61\x74\x2E\x65\x64\x69\x74\x6F\x72\x5F\x64\x61\x72\x6B\x2E\x61\x63\x65\x5F\x65\x64\x69\x74\x6F\x72\x5F\x74\x68\x65\x6D\x65\x20\x61\x20\x7B\x0A\x20\x20\x20\x63\x6F\x6C\x6F\x72\x3A\x20\x23\x46\x46\x46\x20\x21\x69\x6D\x70\x6F\x72\x74\x61\x6E\x74\x3B\x0A\x7D\x0A\x0A\x2E\x61\x63\x65\x5F\x6C\x61\x79\x65\x72\x20\x7B\x0A\x20\x20\x20\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x20\x33\x3B\x0A\x7D\x0A\x0A\x2E\x61\x63\x65\x5F\x6C\x61\x79\x65\x72\x2E\x61\x63\x65\x5F\x70\x72\x69\x6E\x74\x2D\x6D\x61\x72\x67\x69\x6E\x2D\x6C\x61\x79\x65\x72\x20\x7B\x0A\x20\x20\x20\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x20\x32\x3B\x0A\x7D\x0A\x0A\x2E\x61\x63\x65\x5F\x6C\x61\x79\x65\x72\x2E\x61\x63\x65\x5F\x6D\x61\x72\x6B\x65\x72\x2D\x6C\x61\x79\x65\x72\x20\x7B\x0A\x20\x20\x20\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x20\x31\x3B\x0A\x7D\x0A\x2E\x72\x73\x74\x75\x64\x69\x6F\x2D\x74\x68\x65\x6D\x65\x73\x2D\x66\x6C\x61\x74\x2E\x72\x73\x74\x75\x64\x69\x6F\x2D\x74\x68\x65\x6D\x65\x73\x2D\x64\x61\x72\x6B\x2D\x6D\x65\x6E\x75\x73\x20\x2E\x61\x63\x65\x5F\x65\x64\x69\x74\x6F\x72\x2E\x61\x63\x65\x5F\x61\x75\x74\x6F\x63\x6F\x6D\x70\x6C\x65\x74\x65\x20\x7B\x0A\x20\x20\x20\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x20\x23\x32\x66\x33\x39\x34\x31\x3B\x0A\x20\x20\x20\x2F\x2A\x20\x62\x6F\x72\x64\x65\x72\x3A\x20\x73\x6F\x6C\x69\x64\x20\x31\x70\x78\x20\x23\x3 
