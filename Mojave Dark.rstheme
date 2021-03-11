@@ -178,6 +178,18 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 	background: #9c9c9c;
 }
 
+.GCHYANPCH3 {
+	background: inherit;
+}
+
+.GCHYANPCMH {
+	background: rgb(55, 57, 58);
+}
+
+.GCHYANPCPEC {
+	color: #000000 !important;
+}
+
 .gwt-TabLayoutPanelTab-selected {
 	background: #9c9c9c linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0, rgba(255, 255, 255, 0) 20%, rgba(0, 0, 0, 0.01) 85%, rgba(0, 0, 0, 0.1) 100%);
 }
@@ -201,6 +213,10 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 
 .rstudio-themes-flat .GCHYANPCK3 {
 	background: #9c9c9c;
+}
+
+.GCHYANPCHW {
+	background: rgb(24, 24, 25);
 }
 
 /*Remove default draggable spacers color*/

@@ -175,12 +175,28 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 	background: #9c9c9c;
 }
 
+.GCHYANPCMH {
+	background: rgb(55, 57, 58);
+}
+
+.GCHYANPCHW {
+	background: rgb(24, 24, 25);
+}
+
+.GCHYANPCH3 {
+	background: inherit;
+}
+
 .GCHYANPCJ3 {
 	background: rgb(24, 24, 25);
 }
 
 .rstudio-themes-flat .GCHYANPCK3 {
 	background: #9c9c9c;
+}
+
+.GCHYANPCPEC {
+	color: #000000 !important;
 }
 
 /*Remove default draggable spacers color*/
