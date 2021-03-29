@@ -219,6 +219,10 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 	background: rgb(24, 24, 25);
 }
 
+.GCHYANPCOX {
+	background-color: rgb(55,57,58) !important;
+}
+
 /*Remove default draggable spacers color*/
 .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-VDragger {
   background: none !important;
