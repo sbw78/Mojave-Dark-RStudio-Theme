@@ -12,7 +12,7 @@
 }
 
 .GD15MCFCEUB .ace_keyword {
-    color: rgb(217,217,217); !important;
+    color: rgb(217,217,217) !important;
 }
 
 /* editor margin */
@@ -188,6 +188,19 @@ textarea.GD15MCFCFVC.GD15MCFCFVC-readonly {
 
 .GCHYANPCPEC {
 	color: #000000 !important;
+}
+
+.GAQXDSOBHK {
+  background-color: rgb(55, 57, 58) !important;
+  border: 1px solid #999;
+}
+
+.GAQXDSOBHK .__rstudio_modal_first_focus {
+  background: rgb(30, 30, 30);
+}
+
+.GAQXDSOBMRB {
+  background-color: inherit;
 }
 
 .gwt-TabLayoutPanelTab-selected {
@@ -387,7 +400,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 
 /* Remove Rstudios red dot breakpoint icon */
 .ace_gutter-cell.ace_breakpoint, .ace_gutter-cell.ace_inactive-breakpoint {
-  background-size: 0px 0px; !important;
+  background-size: 0px 0px !important;
 }
 
 /* Blue ribbon meant to mimic Xcode breakpoint */
@@ -708,6 +721,10 @@ div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
     color: white !important;
     border: none !important;
     box-shadow: none !important;
+}
+
+.rstudio-themes-flat button.gwt-Button-DialogAction>table:first-child, .rstudio-themes-flat button.GAQXDSOBC2>table:first-child {
+  background-color: rgb(108, 108, 108);
 }
 
 .GCHYANPCN1 {
