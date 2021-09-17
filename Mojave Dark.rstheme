@@ -130,13 +130,19 @@ th.GGBOEFPDKAC {
     color: rgb(218, 218, 218);
 }
 
+.GAQXDSOBBGC .GAQXDSOBBHC .GAQXDSOBIHC {
+  background-color: rgb(44,45,51);
+  border-color: rgb(44,45,51);
+  color: rgb(218, 218, 218);
+}
+
 .GGBOEFPDFAC {
     background-color: rgb(41,42,48);
     border-color: rgb(44,45,51);
     color: rgb(218, 218, 218);
 }
 
-/*remove border from odd package updae rows*/
+/*remove border from odd package update rows*/
 .GGBOEFPDFBC {
     border: none !important;
 }
@@ -314,7 +320,7 @@ table.GD15MCFCBMB {
 }
 
 /*create project from working directory background*/
-.GD15MCFCB3 {
+.GD15MCFCB3 .GAQXDSOBJ3 {
   background: rgba(55,57,58, .5) !important;
 }
 
@@ -326,7 +332,34 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
   filter: brightness(.26) saturate(2);
 }
 
+.GAQXDSOBC3 .GAQXDSOBB3 {
+  color:white;
+}
 
+.GAQXDSOBK3 {
+  background: rgb(67, 67, 67) !important;
+  color: white;
+}
+
+.GAQXDSOBK3:hover {
+  background:rgb(37, 37, 37) !important;
+}
+
+.GAQXDSOBK3:focus {
+  outline: none;
+}
+
+.GAQXDSOBI3 {
+  background: inherit;
+}
+
+.GAQXDSOBP2, .GAQXDSOBO2 {
+  background: rgb(67, 67, 67);
+}
+
+.GAQXDSOBA3 {
+  background-color: rgb(37, 37, 37);
+}
 
 /*window resize buttons in top right of each pane*/
 .GD15MCFCCS.rstheme_multiPodUtilityTabArea {
@@ -725,6 +758,7 @@ div.gwt-TabLayoutPanelTab.GGBOEFPDH .gwt-Label {
 
 .rstudio-themes-flat button.gwt-Button-DialogAction>table:first-child, .rstudio-themes-flat button.GAQXDSOBC2>table:first-child {
   background-color: rgb(108, 108, 108);
+  border: none;
 }
 
 .GCHYANPCN1 {
@@ -781,6 +815,16 @@ a.gwt-Anchor.GD15MCFCNQ {
 
 div .gwt-Label.GD15MCFCF3 {
   color: white !important;
+}
+
+.gwt-Label {
+  /* color: white !important; */
+  background: inherit;
+  /* background: rgb(55, 57, 58) !important; */
+}
+
+.gwt-Label .GAQXDSOBHRC {
+  color: black;
 }
 
 .gwt-Button {

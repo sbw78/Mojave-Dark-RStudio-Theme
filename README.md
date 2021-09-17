@@ -35,3 +35,11 @@ Go to the Folder (&#8984; &#8679; G) `~/.R/rstudio/themes` and delete the file "
 - `Error in loadNamespace(name) : there is no package called ‘rstudioapi’`
 
 Run `install.packages("rstudioapi")`. Then retry installing Mojave Dark. 
+
+## Notes about this fork
+This fork has been customized to work on the following system:
+
+- macOS Catalina 10.15.7
+- Darwin Kernel Version 19.6.0: Tue Jun 22 19:49:55 PDT 2021
+- RStudio Desktop 1.4.1717 "Juliet Rose" 
+- R 4.1.1
