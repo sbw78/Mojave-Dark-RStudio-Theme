@@ -113,7 +113,13 @@ th.GGBOEFPDKAC {
 .GAQXDSOBBGC .GAQXDSOBBHC .GAQXDSOBIHC {
   background-color: rgb(44,45,51);
   border-color: rgb(44,45,51);
-  color: rgb(218, 218, 218);
+  /*color: rgb(218, 218, 218);*/
+  color: #3c474d !important;
+}
+
+/* Update Packages */
+.GAQXDSOBHGC {
+  color: #3c474d;
 }
 
 .GGBOEFPDFAC {
@@ -804,6 +810,10 @@ div .gwt-Label.GD15MCFCF3 {
   /* background: rgb(55, 57, 58) !important; */
 }
 
+div .pm-navigation-tree-node-label-div {
+  color: white !important;
+}
+
 .gwt-Label .GAQXDSOBHRC {
   white-space: pre-wrap;
   font-size: 0.9em;
@@ -830,7 +840,8 @@ div .gwt-Label.GD15MCFCF3 {
 }
 
 .dialogContent {
-  color: white !important;
+  /*color: white !important;*/
+  color: #bbb !important;
 }
 
 .ace_constant.ace_language {
