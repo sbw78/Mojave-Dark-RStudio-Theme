@@ -825,6 +825,10 @@ div .pm-navigation-tree-node-label-div {
   color: black;
 }
 
+.GND-IWGDDL {
+  background-color: rgb(55,57,58);
+}
+
 .GD15MCFCAK {
   color: white !important
 }
