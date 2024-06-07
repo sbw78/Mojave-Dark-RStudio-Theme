@@ -1645,3 +1645,8 @@ span.ace_paren.ace_keyword.ace_operator {
 .GNVWDDMDM3, .GNVWDDMDN3, .GNVWDDMDP3, .GNVWDDMDK3 {
     color: grey;
 }
+
+/* fix text color in document outline */
+.GNTYACMBJOC.rstudio_doc_outline_container {
+  color: rgb(255,255,255);
+}
